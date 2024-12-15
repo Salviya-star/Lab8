@@ -19,10 +19,6 @@ const (
 	dbname   = "sandbox"
 )
 
-type Handlers struct {
-	dbProvider DatabaseProvider
-}
-
 type DatabaseProvider struct {
 	db *sql.DB
 }
