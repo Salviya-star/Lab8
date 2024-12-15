@@ -13,9 +13,9 @@ import (
 
 const (
 	host     = "localhost"
-	port     = 5432
+	port     = 5423
 	user     = "postgres"
-	password = "postgres"
+	password = "Salviya542350"
 	dbname   = "sandbox"
 )
 
